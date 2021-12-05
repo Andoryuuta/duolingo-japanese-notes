@@ -23,5 +23,15 @@
 
 * [毎](https://jisho.org/search/%E6%AF%8E%20%23kanji) meaning each/every. On-reading is used ( マイ / "mai").
 * [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji) meaning morning. Kun-reading is used (あさ / "asa").
+
+
+<ruby>
+  毎 <rp>(</rp><rt>mai</rt><rp>)</rp>
+  日 <rp>(</rp><rt>asa</rt><rp>)</rp>
+</ruby>/ "mainichi" - Every day
+<br>
+
+* [毎](https://jisho.org/search/%E6%AF%8E%20%23kanji) meaning each/every. On-reading is used ( マイ / "mai").
+* [日](https://jisho.org/search/%E6%97%A5%20%23kanji) meaning day. On-reading is used (ニチ / "nichi").
   
   
