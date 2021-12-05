@@ -1,10 +1,21 @@
 
+## Places
+<ruby>
+  学 <rp>(</rp><rt>ガク</rt><rp>)</rp>
+  校 <rp>(</rp><rt>コウ</rt><rp>)</rp>
+</ruby>/ "gakkou"
+- school 
+<br>
 
+* [学](https://jisho.org/search/%E5%AD%A6%20%23kanji) (lit. study). On-reading is used (ガク / "gaku").
+* [校](https://jisho.org/search/%E6%A0%A1%20%23kanji) (lit. school). On-reading is used (コウ / "kou").
+  
+  
 
 ## Time
 <ruby>
-  零 <rp>(</rp><rt>rei</rt><rp>)</rp>
-  時 <rp>(</rp><rt>ji</rt><rp>)</rp>
+  零 <rp>(</rp><rt>レイ</rt><rp>)</rp>
+  時 <rp>(</rp><rt>ジ</rt><rp>)</rp>
 </ruby>/ "reiji"
 - Midnight (lit. zero o'clock / zero hours, see notes)
 <br>
@@ -16,8 +27,8 @@
 
 ## Routine
 <ruby>
-  毎 <rp>(</rp><rt>mai</rt><rp>)</rp>
-  朝 <rp>(</rp><rt>asa</rt><rp>)</rp>
+  毎 <rp>(</rp><rt>マイ</rt><rp>)</rp>
+  朝 <rp>(</rp><rt>あさ</rt><rp>)</rp>
 </ruby>/ "maiasa" - Every morning
 <br>
 
@@ -26,8 +37,8 @@
 
 
 <ruby>
-  毎 <rp>(</rp><rt>mai</rt><rp>)</rp>
-  日 <rp>(</rp><rt>nichi</rt><rp>)</rp>
+  毎 <rp>(</rp><rt>マイ</rt><rp>)</rp>
+  日 <rp>(</rp><rt>ニチ</rt><rp>)</rp>
 </ruby>/ "mainichi" - Every day
 <br>
 
