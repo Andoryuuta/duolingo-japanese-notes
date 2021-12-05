@@ -27,7 +27,7 @@
 
 <ruby>
   毎 <rp>(</rp><rt>mai</rt><rp>)</rp>
-  日 <rp>(</rp><rt>asa</rt><rp>)</rp>
+  日 <rp>(</rp><rt>nichi</rt><rp>)</rp>
 </ruby>/ "mainichi" - Every day
 <br>
 
