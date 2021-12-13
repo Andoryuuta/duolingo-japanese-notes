@@ -46,3 +46,16 @@
 * [日](https://jisho.org/search/%E6%97%A5%20%23kanji) meaning day. On-reading is used (ニチ / "nichi").
   
   
+  
+  
+  
+  
+## Food
+<ruby>
+  お <rp>(</rp><rt></rt><rp>)</rp>
+  茶 <rp>(</rp><rt>ちゃ</rt><rp>)</rp>
+</ruby>/ "ocha" - (green) tea
+<br>
+
+* [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) meaning morning. On-reading is used (ちゃ / "cha").
+
