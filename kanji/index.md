@@ -1,8 +1,8 @@
 
 ## Places
 <ruby>
-  学 <rp>(</rp><rt>ガク</rt><rp>)</rp>
-  校 <rp>(</rp><rt>コウ</rt><rp>)</rp>
+  学 <rp>(</rp><rt>がく</rt><rp>)</rp>
+  校 <rp>(</rp><rt>こう</rt><rp>)</rp>
 </ruby>/ "gakkou"
 - school 
 <br>
@@ -14,8 +14,8 @@
 
 ## Time
 <ruby>
-  零 <rp>(</rp><rt>レイ</rt><rp>)</rp>
-  時 <rp>(</rp><rt>ジ</rt><rp>)</rp>
+  零 <rp>(</rp><rt>れい</rt><rp>)</rp>
+  時 <rp>(</rp><rt>じ</rt><rp>)</rp>
 </ruby>/ "reiji"
 - Midnight (lit. zero o'clock / zero hours, see notes)
 <br>
@@ -27,7 +27,7 @@
 
 ## Routine
 <ruby>
-  毎 <rp>(</rp><rt>マイ</rt><rp>)</rp>
+  毎 <rp>(</rp><rt>まい</rt><rp>)</rp>
   朝 <rp>(</rp><rt>あさ</rt><rp>)</rp>
 </ruby>/ "maiasa" - Every morning
 <br>
@@ -37,8 +37,8 @@
 
 
 <ruby>
-  毎 <rp>(</rp><rt>マイ</rt><rp>)</rp>
-  日 <rp>(</rp><rt>ニチ</rt><rp>)</rp>
+  毎 <rp>(</rp><rt>まい</rt><rp>)</rp>
+  日 <rp>(</rp><rt>にち</rt><rp>)</rp>
 </ruby>/ "mainichi" - Every day
 <br>
 
