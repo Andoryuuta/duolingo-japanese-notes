@@ -57,5 +57,5 @@
 </ruby>/ "ocha" - (green) tea
 <br>
 
-* [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) meaning morning. On-reading is used (ちゃ / "cha").
+* [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) meaning tea. On-reading is used (ちゃ / "cha").
 
