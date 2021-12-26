@@ -1,4 +1,16 @@
 
+## People
+<ruby>
+  先 <rp>(</rp><rt>せんく</rt><rp>)</rp>
+  生 <rp>(</rp><rt>せい</rt><rp>)</rp>
+</ruby>/ "sensei"
+- teacher 
+<br>
+
+* [先](https://jisho.org/search/先%20%23kanji) (lit.before, ahead, previous, future, precedence). On-reading is used (セン / "sen").
+* [生](https://jisho.org/search/生%20%23kanji) (lit.  life, genuine, birth ). On-reading is used (セイ / "sei").
+* Rough literal translation would be "[person] before another [life]"
+
 ## Places
 <ruby>
   学 <rp>(</rp><rt>がく</rt><rp>)</rp>
@@ -44,8 +56,6 @@
 
 * [毎](https://jisho.org/search/%E6%AF%8E%20%23kanji) meaning each/every. On-reading is used ( マイ / "mai").
 * [日](https://jisho.org/search/%E6%97%A5%20%23kanji) meaning day. On-reading is used (ニチ / "nichi").
-  
-  
   
   
   
