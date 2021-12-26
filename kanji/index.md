@@ -86,3 +86,4 @@
 ## Other
 
 * [願い](https://jisho.org/search/%E9%A1%98%E3%81%84)
+* ご飯　- "ごはん" - "gohan" - rice.
