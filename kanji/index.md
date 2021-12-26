@@ -69,3 +69,7 @@
 
 * [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) meaning tea. On-reading is used (ちゃ / "cha").
 
+
+## Other
+
+* [願い](https://jisho.org/search/%E9%A1%98%E3%81%84)
