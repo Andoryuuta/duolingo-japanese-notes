@@ -70,6 +70,15 @@
 * [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) meaning tea. On-reading is used (ちゃ / "cha").
 
 
+<ruby>
+  食 <rp>(</rp><rt>た*</rt><rp>)</rp>
+</ruby>べます　/ tabemasu　- " [will] eat"
+<br>
+
+* [食](https://jisho.org/search/%E9%A3%9F%20%23kanji) meaning eat/food. Kun-reading is used (た.べる / "taberu").
+* tabemasu is the [polite, present, positive conjugation of the "食べ／たべ" stem.](http://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=%E9%A3%9F%E3%81%B9%E3%82%8B)
+
+
 ## Other
 
 * [願い](https://jisho.org/search/%E9%A1%98%E3%81%84)
