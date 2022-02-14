@@ -21,6 +21,17 @@
 
 * [学](https://jisho.org/search/%E5%AD%A6%20%23kanji) (lit. study). On-reading is used (ガク / "gaku").
 * [校](https://jisho.org/search/%E6%A0%A1%20%23kanji) (lit. school). On-reading is used (コウ / "kou").
+
+
+<ruby>
+  部 <rp>(</rp><rt>へ</rt><rp>)</rp>
+  屋 <rp>(</rp><rt>や</rt><rp>)</rp>
+</ruby>/ "heya"
+- room
+<br>
+
+* [部](https://jisho.org/search/%E9%83%A8%20%23kanji) (lit. section/part/portion). Kun-reading is used (へ / "he").
+* [屋](https://jisho.org/search/%E5%B1%8B%20%23kanji) (lit. roof/house/shop). kun-reading is used (や / "ya").
   
   
 
